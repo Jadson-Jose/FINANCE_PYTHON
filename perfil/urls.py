@@ -10,4 +10,6 @@ urlpatterns = [
          name='cadastrar_categoria'),
     path('update_categoria/<int:id>', views.update_categoria,
          name='update_categoria'),
+    path('dashboard/', views.dashboard, name='dashboard'),
+
 ]
