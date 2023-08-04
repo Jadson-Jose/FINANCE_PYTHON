@@ -10,7 +10,8 @@ nessa semana do que em outro lugar.
 - Código para subir o servidor da aplicação 
 - 💬 python manage.py runserver
 
-![image](https://github.com/Jadson-Jose/FINANCE_PYTHON/assets/69395306/acf4d8a8-5b1f-403a-8f64-7722e6adb2cc)
+![image](https://github.com/Jadson-Jose/FINANCE_PYTHON/assets/69395306/addcfb70-2fba-4936-8fb6-e174dce45418)
+
 
 - Já logo no começo já aprendemos a instalar a dependencias da primeira parte do prorejeto como instalar o python o django
   seguindo sempre as recomendações da pep8.
